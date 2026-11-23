@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071b32"/><stop offset=".55" stop-color="#193c62"/><stop offset="1" stop-color="#9b7044"/></linearGradient><linearGradient id="amber" x2="0" y2="1"><stop stop-color="#ffd98c"/><stop offset=".45" stop-color="#b86b1f"/><stop offset="1" stop-color="#5c2d12"/></linearGradient><radialGradient id="glow"><stop stop-color="#e4a85b" stop-opacity=".7"/><stop offset="1" stop-color="#e4a85b" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="520" fill="#142c47"/><circle cx="920" cy="160" r="330" fill="url(#glow)"/>
+<path d="M0 390 Q280 340 560 410 T1200 370 V520 H0Z" fill="#090f18" opacity=".72"/>
+<g opacity=".25" fill="#f2c17b"><circle cx="150" cy="100" r="45"/><circle cx="270" cy="65" r="20"/><circle cx="520" cy="130" r="34"/><circle cx="1100" cy="85" r="50"/></g>
+<rect x="0" y="438" width="1200" height="82" fill="#3c291d" opacity=".8"/>
+<g transform="translate(780 75)"><path d="M100 0h110l-8 48 20 30 24 250q0 32-30 32H88q-30 0-30-32L82 78l25-30Z" fill="#d9e2e8" opacity=".28" stroke="#e9edf0" stroke-width="8"/><path d="M82 160h160l18 170q2 25-25 25H89q-27 0-25-25Z" fill="url(#amber)" opacity=".9"/><rect x="125" y="5" width="60" height="56" rx="8" fill="#c9a56b"/><rect x="87" y="190" width="150" height="100" rx="4" fill="#eee7d7"/><text x="162" y="232" font-family="Georgia" font-size="26" text-anchor="middle" fill="#19324b">BAMBINO</text><text x="162" y="258" font-family="Arial" font-size="13" text-anchor="middle" fill="#80603d">WHISKY</text></g>
+<text x="90" y="205" fill="#d9eaff" font-family="sans-serif" font-size="22" letter-spacing="6">BAMBINO  /  WHISKY FOR YOUR MOMENT</text>
+<text x="90" y="285" fill="#fff" font-family="sans-serif" font-size="55" font-weight="700">싱글몰트의 깊이</text><text x="90" y="355" fill="#b98b55" font-family="sans-serif" font-size="48" font-weight="700">천천히 음미하는 밤</text>
+<text x="92" y="405" fill="#d7e1ec" font-family="sans-serif" font-size="18">A QUIET MOMENT, A GOOD DRAM</text></svg>
